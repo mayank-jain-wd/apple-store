@@ -1,0 +1,105 @@
+.navbar.navbar-dark.navbar-expand-md.bg-dark {
+  background-color: #000 !important;
+}
+
+.fa.fa-apple.apple-logo {
+  font-size: 26px;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+  font-size: 13px;
+}
+
+.hero-header h1 {
+  font-weight: bold;
+}
+
+.learn-more-btn {
+  margin-right: 30px;
+}
+
+div {
+}
+
+.hero-header a {
+  font-size: 18px;
+  /*color: #000;*/
+  /*font-weight: 500;*/
+}
+
+.hero-btn-sec {
+  padding: 20px 0;
+  margin-bottom: 40px;
+}
+
+a:hover {
+  /*color: #000;*/
+  text-decoration: none;
+}
+
+.hero-header {
+}
+
+.display-4.text-center {
+  font-weight: bolder;
+}
+
+.second-sec {
+  padding: 60px 0;
+}
+
+.grid-col {
+  padding: 3rem 0;
+  height: 500px;
+}
+
+.grid-col h3 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.grid-col h4 {
+  font-size: 22px;
+}
+
+.iphone-grid {
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.img-fluid:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 400px) {
+  h3 {
+    font-size: 18px;
+  }
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+@media (max-width: 300px) {
+  h1 {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 400px) {
+  .display-4.text-center {
+    font-size: 40px;
+  }
+}
+
+.sr-only {
+  /*color: #fff;*/
+}
+
